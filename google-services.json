@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "145909241872",
+    "firebase_url": "https://exam-4itf.firebaseio.com",
+    "project_id": "exam-4itf",
+    "storage_bucket": "exam-4itf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145909241872:android:32b96c64db14e232",
+        "android_client_info": {
+          "package_name": "com.dalmacio.michael.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145909241872-aif89qod0nmj9o8kos7qgcuvgtvvi7l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkzKuMIGf3WUgdf-aYt_l0DTJ8W-com1E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

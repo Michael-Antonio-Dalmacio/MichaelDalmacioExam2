@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "681921446377",
+    "firebase_url": "https://itf-dalmacio.firebaseio.com",
+    "project_id": "itf-dalmacio",
+    "storage_bucket": "itf-dalmacio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681921446377:android:32b96c64db14e232",
+        "android_client_info": {
+          "package_name": "com.dalmacio.michael.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681921446377-kiqv2ojkvrctt4aeou0s7rsf7bpopkci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalmacio.michael.exam2",
+            "certificate_hash": "ba7412d66b88179afd654c3cea26df4b282c0799"
+          }
+        },
+        {
+          "client_id": "681921446377-p92jk545muad6et5j6ftt78n0plnj0lv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADgBaw4lXHYnJBIn58qIQjiXoFAgWF7Qw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681921446377-p92jk545muad6et5j6ftt78n0plnj0lv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
